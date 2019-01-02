@@ -1,0 +1,27 @@
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.exe.config
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.exe
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.pdb
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Properties.Resources.resources
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.exe
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.pdb
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Login.resources
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Registration.resources
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Update.resources
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Add_Medicine.resources
+C:\Users\darkw\Documents\Visual Studio 2012\Projects\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Main_Menu.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.exe.config
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.exe
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.pdb
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Add_Medicine.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Delete.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Login.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Main_Menu.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Properties.Resources.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Registration.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Update.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.Update_Medicine.resources
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.exe
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.pdb

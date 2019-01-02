@@ -1,0 +1,16 @@
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\bin\Debug\PharmacyDB.mdf
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\bin\Debug\PharmacyDB_log.ldf
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\bin\Debug\PharmacyDB.mdf
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\bin\Debug\PharmacyDB_log.ldf
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\Farhana Najnin\Desktop\C sharp\3 NF\Pharmacy_Project\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache

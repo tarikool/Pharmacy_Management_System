@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application Layer", "Application Layer.csproj", "{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access Layer", "..\Data Access Layer\Data Access Layer.csproj", "{7248D010-9EF0-4AEF-84AC-CF8CAD2526AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Logic Layer", "Business Logic Layer\Business Logic Layer.csproj", "{FDAE50D8-EF85-4493-A71D-7AE85C56255E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7248D010-9EF0-4AEF-84AC-CF8CAD2526AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7248D010-9EF0-4AEF-84AC-CF8CAD2526AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7248D010-9EF0-4AEF-84AC-CF8CAD2526AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7248D010-9EF0-4AEF-84AC-CF8CAD2526AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAE50D8-EF85-4493-A71D-7AE85C56255E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAE50D8-EF85-4493-A71D-7AE85C56255E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAE50D8-EF85-4493-A71D-7AE85C56255E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAE50D8-EF85-4493-A71D-7AE85C56255E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

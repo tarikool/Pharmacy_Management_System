@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Layer", "Pharmacy_Project\GUI_Layer.csproj", "{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C123CC-8A1E-41BA-A648-D17DC7F15EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

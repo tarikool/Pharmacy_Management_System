@@ -1,0 +1,3 @@
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\bin\Debug\Pharmacy_Project.exe.config
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.exe
+C:\Users\Farhana Najnin\Desktop\c#\Pharmacy_Project\Pharmacy_Project\Pharmacy_Project\obj\Debug\Pharmacy_Project.pdb
